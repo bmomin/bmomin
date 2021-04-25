@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bmomin
 - 👀 I’m interested in Visual studio products
 - 🌱 I’m currently learning .Net core
-- 💞️ I’m looking to collaborate on developes on similar interests.
+- 💞️ I’m looking to collaborate with developers on similar interests.
 - 📫 Reach me out on mominbx@outlook.com
 
 <!---
